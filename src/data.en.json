@@ -1,0 +1,179 @@
+[
+    {
+        "title": "Vue.js",
+        "children": [
+            {
+                "title": "Vue.js General Resources",
+                "children": [
+                    {
+                        "title": "Vue.js Official Website",
+                        "link": "https://vuejs.org/"
+                    },
+                    {
+                        "title": "Vue.js GitHub",
+                        "link": "https://github.com/vuejs/vue"
+                    },
+                    {
+                        "title": "Vue.js Forum",
+                        "link": "https://forum.vuejs.org/"
+                    },
+                    {
+                        "title": "Vue.js Community",
+                        "link": "https://vuejs.org/v2/guide/join.html"
+                    },
+                    {
+                        "title": "Vue.js Conferences",
+                        "link": "https://vuejs.org/community/conferences.html"
+                    },
+                    {
+                        "title": "Vue.js CodeSandbox Playground",
+                        "link": "https://codesandbox.io/s/vue"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js Tutorials",
+                "children": [
+                    {
+                        "title": "Vue.js Official Guide",
+                        "link": "https://vuejs.org/v2/guide/"
+                    },
+                    {
+                        "title": "Using Vue.js in Visual Studio Code",
+                        "link": "https://code.visualstudio.com/docs/nodejs/vuejs-tutorial"
+                    },
+                    {
+                        "title": "Vue.js Interview Questions & Answers",
+                        "link": "https://github.com/sudheerj/vuejs-interview-questions"
+                    },
+                    {
+                        "title": "Vue.js Design Patterns",
+                        "link": "https://www.patterns.dev/posts/vuejs-patterns/"
+                    },
+                    {
+                        "title": "Vue.js Production-Ready Application Architecture",
+                        "link": "https://github.com/alan2207/vuejs-production"
+                    },
+                    {
+                        "title": "Vue.js with TypeScript Cheatsheets",
+                        "link": "https://github.com/vuejs/vue-next"
+                    },
+                    {
+                        "title": "The Fullstack Tutorial for GraphQL with Vue.js",
+                        "link": "https://www.howtographql.com/vue-apollo/0-introduction/"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js Frameworks",
+                "children": [
+                    {
+                        "title": "Nuxt.js",
+                        "link": "https://github.com/nuxt/nuxt.js",
+                        "description": "The Intuitive Vue.js Framework"
+                    },
+                    {
+                        "title": "Quasar",
+                        "link": "https://github.com/quasarframework/quasar",
+                        "description": "High-performance Vue.js framework"
+                    },
+                    {
+                        "title": "Gridsome",
+                        "link": "https://github.com/gridsome/gridsome",
+                        "description": "Build modern websites with Vue.js"
+                    },
+                    {
+                        "title": "Vuetify",
+                        "link": "https://github.com/vuetifyjs/vuetify",
+                        "description": "Material Component Framework for Vue.js"
+                    },
+                    {
+                        "title": "VuePress",
+                        "link": "https://github.com/vuejs/vuepress",
+                        "description": "Vue-powered Static Site Generator"
+                    },
+                    {
+                        "title": "VitePress",
+                        "link": "https://github.com/vuejs/vitepress",
+                        "description": "Static Site Generator powered by Vite and Vue.js"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js Component Libraries",
+                "children": [
+                    {
+                        "title": "Element",
+                        "link": "https://github.com/ElemeFE/element",
+                        "description": "A Vue.js 2.0 UI Toolkit for Web"
+                    },
+                    {
+                        "title": "BootstrapVue",
+                        "link": "https://github.com/bootstrap-vue/bootstrap-vue",
+                        "description": "Bootstrap v4 components and grid system for Vue.js"
+                    },
+                    {
+                        "title": "Buefy",
+                        "link": "https://github.com/buefy/buefy",
+                        "description": "Lightweight UI components for Vue.js based on Bulma"
+                    },
+                    {
+                        "title": "Vuetify",
+                        "link": "https://github.com/vuetifyjs/vuetify",
+                        "description": "Material Component Framework for Vue.js"
+                    },
+                    {
+                        "title": "PrimeVue",
+                        "link": "https://github.com/primefaces/primevue",
+                        "description": "Powerful yet simple to use, flexible Vue.js UI Components"
+                    },
+                    {
+                        "title": "Vuesax",
+                        "link": "https://github.com/lusaxweb/vuesax",
+                        "description": "Unique UI components for Vue.js"
+                    },
+                    {
+                        "title": "Chakra UI Vue",
+                        "link": "https://github.com/chakra-ui/chakra-ui-vue",
+                        "description": "Build accessible Vue.js applications with ease"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js State Management and Data Fetching",
+                "children": [
+                    {
+                        "title": "Vuex",
+                        "link": "https://github.com/vuejs/vuex",
+                        "description": "State management pattern + library for Vue.js applications"
+                    },
+                    {
+                        "title": "Pinia",
+                        "link": "https://github.com/vuejs/pinia",
+                        "description": "The Vue Store that you will enjoy using"
+                    },
+                    {
+                        "title": "Vue Apollo",
+                        "link": "https://github.com/vuejs/vue-apollo",
+                        "description": "Apollo/GraphQL integration for Vue.js"
+                    },
+                    {
+                        "title": "Vuelidate",
+                        "link": "https://github.com/vuelidate/vuelidate",
+                        "description": "Simple, lightweight model-based validation for Vue.js"
+                    },
+                    {
+                        "title": "Vue Composition API",
+                        "link": "https://github.com/vuejs/composition-api",
+                        "description": "A Vue.js plugin for the Composition API"
+                    },
+                    {
+                        "title": "Vue Query",
+                        "link": "https://github.com/DamianOsipiuk/vue-query",
+                        "description": "Hooks for fetching, caching and updating asynchronous data in Vue.js"
+                    }
+                ]
+            }
+        ]
+    }
+]

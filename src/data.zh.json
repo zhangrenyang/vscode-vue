@@ -1,0 +1,179 @@
+[
+    {
+        "title": "Vue.js",
+        "children": [
+            {
+                "title": "Vue.js 通用资源",
+                "children": [
+                    {
+                        "title": "Vue.js 官方网站",
+                        "link": "https://vuejs.org/"
+                    },
+                    {
+                        "title": "Vue.js GitHub",
+                        "link": "https://github.com/vuejs/vue"
+                    },
+                    {
+                        "title": "Vue.js 论坛",
+                        "link": "https://forum.vuejs.org/"
+                    },
+                    {
+                        "title": "Vue.js 社区",
+                        "link": "https://vuejs.org/v2/guide/join.html"
+                    },
+                    {
+                        "title": "Vue.js 会议",
+                        "link": "https://vuejs.org/community/conferences.html"
+                    },
+                    {
+                        "title": "Vue.js CodeSandbox Playground",
+                        "link": "https://codesandbox.io/s/vue"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js 教程",
+                "children": [
+                    {
+                        "title": "Vue.js 官方指南",
+                        "link": "https://vuejs.org/v2/guide/"
+                    },
+                    {
+                        "title": "在 Visual Studio Code 中使用 Vue.js",
+                        "link": "https://code.visualstudio.com/docs/nodejs/vuejs-tutorial"
+                    },
+                    {
+                        "title": "Vue.js 面试问题与答案",
+                        "link": "https://github.com/sudheerj/vuejs-interview-questions"
+                    },
+                    {
+                        "title": "Vue.js 设计模式",
+                        "link": "https://www.patterns.dev/posts/vuejs-patterns/"
+                    },
+                    {
+                        "title": "Vue.js 生产就绪的应用架构",
+                        "link": "https://github.com/alan2207/vuejs-production"
+                    },
+                    {
+                        "title": "Vue.js 与 TypeScript 速查表",
+                        "link": "https://github.com/vuejs/vue-next"
+                    },
+                    {
+                        "title": "GraphQL 全栈教程（Vue.js 版）",
+                        "link": "https://www.howtographql.com/vue-apollo/0-introduction/"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js 框架",
+                "children": [
+                    {
+                        "title": "Nuxt.js",
+                        "link": "https://github.com/nuxt/nuxt.js",
+                        "description": "直观的 Vue.js 框架"
+                    },
+                    {
+                        "title": "Quasar",
+                        "link": "https://github.com/quasarframework/quasar",
+                        "description": "高性能 Vue.js 框架"
+                    },
+                    {
+                        "title": "Gridsome",
+                        "link": "https://github.com/gridsome/gridsome",
+                        "description": "使用 Vue.js 构建现代网站"
+                    },
+                    {
+                        "title": "Vuetify",
+                        "link": "https://github.com/vuetifyjs/vuetify",
+                        "description": "Vue.js 的 Material 组件框架"
+                    },
+                    {
+                        "title": "VuePress",
+                        "link": "https://github.com/vuejs/vuepress",
+                        "description": "Vue 驱动的静态网站生成器"
+                    },
+                    {
+                        "title": "VitePress",
+                        "link": "https://github.com/vuejs/vitepress",
+                        "description": "由 Vite 和 Vue.js 提供支持的静态网站生成器"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js 组件库",
+                "children": [
+                    {
+                        "title": "Element",
+                        "link": "https://github.com/ElemeFE/element",
+                        "description": "为 Web 提供的 Vue.js 2.0 UI 工具包"
+                    },
+                    {
+                        "title": "BootstrapVue",
+                        "link": "https://github.com/bootstrap-vue/bootstrap-vue",
+                        "description": "Vue.js 的 Bootstrap v4 组件和网格系统"
+                    },
+                    {
+                        "title": "Buefy",
+                        "link": "https://github.com/buefy/buefy",
+                        "description": "基于 Bulma 的轻量级 Vue.js UI 组件"
+                    },
+                    {
+                        "title": "Vuetify",
+                        "link": "https://github.com/vuetifyjs/vuetify",
+                        "description": "Vue.js 的 Material 组件框架"
+                    },
+                    {
+                        "title": "PrimeVue",
+                        "link": "https://github.com/primefaces/primevue",
+                        "description": "功能强大且易于使用的 Vue.js UI 组件"
+                    },
+                    {
+                        "title": "Vuesax",
+                        "link": "https://github.com/lusaxweb/vuesax",
+                        "description": "Vue.js 的独特 UI 组件"
+                    },
+                    {
+                        "title": "Chakra UI Vue",
+                        "link": "https://github.com/chakra-ui/chakra-ui-vue",
+                        "description": "轻松构建无障碍的 Vue.js 应用程序"
+                    }
+                ]
+            },
+            {
+                "title": "Vue.js 状态管理和数据获取",
+                "children": [
+                    {
+                        "title": "Vuex",
+                        "link": "https://github.com/vuejs/vuex",
+                        "description": "适用于 Vue.js 应用程序的状态管理模式 + 库"
+                    },
+                    {
+                        "title": "Pinia",
+                        "link": "https://github.com/vuejs/pinia",
+                        "description": "您将享受使用的 Vue.js 存储"
+                    },
+                    {
+                        "title": "Vue Apollo",
+                        "link": "https://github.com/vuejs/vue-apollo",
+                        "description": "Vue.js 的 Apollo/GraphQL 集成"
+                    },
+                    {
+                        "title": "Vuelidate",
+                        "link": "https://github.com/vuelidate/vuelidate",
+                        "description": "适用于 Vue.js 的简单轻量级模型验证"
+                    },
+                    {
+                        "title": "Vue Composition API",
+                        "link": "https://github.com/vuejs/composition-api",
+                        "description": "用于 Composition API 的 Vue.js 插件"
+                    },
+                    {
+                        "title": "Vue Query",
+                        "link": "https://github.com/DamianOsipiuk/vue-query",
+                        "description": "用于在 Vue.js 中获取、缓存和更新异步数据的钩子"
+                    }
+                ]
+            }
+        ]
+    }
+]
